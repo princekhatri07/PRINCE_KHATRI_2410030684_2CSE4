@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/princekhatri07/PRINCE_KHATRI_2410030684_2CSE4/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
