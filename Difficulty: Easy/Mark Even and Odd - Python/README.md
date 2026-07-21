@@ -6,4 +6,4 @@
 <pre><span style="font-size: 18px;"><strong>Input: </strong>x = 5
 <strong>Output: </strong>Odd</span>
 </pre>
-<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ x ≤ 10<sup>6</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python</code>&nbsp;
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ x ≤ 10<sup>6</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python</code>&nbsp;.
